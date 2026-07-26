@@ -1,6 +1,10 @@
 @import url("../../static/fonts/fonts.css");
 @import url("../../static/style.css");
 
+:root {
+    --food-ratio: 600 / 800;
+}
+
 #food-header {
     align-items: right;
     display: flex; justify-content: space-between; gap: 1rem;
