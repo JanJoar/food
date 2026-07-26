@@ -1,52 +1,21 @@
 @import url("../../static/fonts/fonts.css");
+@import url("../../static/style.css");
 
-:root {
-    --food-ratio: 600 / 800;
-    --primary-text-font: 'Caslon', 'Sabon', 'Minion Pro', 'ETBembo','Plantin', 'Times New Roman', 'Kai Ti', 'Computer Modern Serif', serif;
-    --font-size: 1.1em;
+#food-header {
+    align-items: right;
+    display: flex; justify-content: space-between; gap: 1rem;
 }
 
-.theme-light {
-    --primary-bg-color: #faf9f8;
-    --secondary-bg-color: #efefe8;
-    --tertiary-bg-color: #deded8;
-    --accent-bg-color: #8f0075;
-    --primary-text-color: #222222;
-    --secondary-text-color: #414141;
-    --tertiary-text-color: #808080;
-
-    --code-color-1:#a8007f;
-    --code-color-2:#005f88;
-    --code-color-3:#718c00;
-    --code-color-4:#8f0075;
-
-    --footer-image-filter: brightness(0) saturate(100%) invert(66%) sepia(9%) saturate(10%) hue-rotate(38deg) brightness(94%) contrast(92%);
-    --image-filter: filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(19%) hue-rotate(351deg) brightness(107%) contrast(87%);
-    --graph-filter: invert(0%);
-}
-.theme-dark {
-    --primary-bg-color: #0b0a0a;
-    --secondary-bg-color: #101010;
-    --tertiary-bg-color: #383838;
-    --accent-bg-color: #a988b0;
-    --primary-text-color: #e8e8e8;
-    --secondary-text-color: #d0d0d0;
-    --tertiary-text-color: #808080;
-
-    --code-color-1:#B66467;
-    --code-color-2:#8c977d;
-    --code-color-3:#8da3b9;
-    --code-color-4:#d9ab8c;
-
-    --footer-image-filter: filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(19%) hue-rotate(351deg) brightness(107%) contrast(87%);
-    --image-filter: brightness(0) saturate(100%) invert(99%) sepia(15%) saturate(148%) hue-rotate(258deg) brightness(90%) contrast(82%);
-    --graph-filter: invert(93%) saturate(50%) hue-rotate(180deg);
+.food-title {
+    border-bottom: none;
+    font-size: 2.5rem;
 }
 
 .food-calendar {
     display: flex;
     flex-direction: column;
     gap: 3.5rem;
+    margin-bottom: 2rem;
     /* padding: 0 1.25rem 4rem; */
 }
 
@@ -56,11 +25,17 @@
     gap: 1rem;
 }
 
-.food-month-header h2 { margin: 0;
-                        font-size: 1.25rem;
-                        font-weight: 400;
-                        color: var(--tertiary-text-color);
-                      }
+.food-month-header{
+    margin-top 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--tertiary-text-color);
+    border-top: none;
+}
+
+.food-month-header:before {
+    content: none;
+}
 
 .food-weekdays, .food-grid {
     display: grid;
@@ -109,6 +84,10 @@
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+.food-entry-link {
+    border-bottom: none;
 }
 
 .food-cell-placeholder {
@@ -181,6 +160,7 @@
     max-width: 100%;
     height: auto;
     border-radius: 10px;
+    padding: 0;
 }
 
 .sr-only {
@@ -189,4 +169,16 @@
     height: 1px;
     overflow: hidden;
     clip-path: inset(50%);
+}
+
+@media (min-width: 90ch) {
+    #content {
+        max-width: 90ch;
+        margin-left: auto;
+    }
+    p {
+        max-width: 70ch;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
