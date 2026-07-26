@@ -1,0 +1,5 @@
+#+date: <2026-07-26>
+
+[[file:~/Documents/blog/food/images/2026-07-26.jpg]]
+
+This is a test.
