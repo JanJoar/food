@@ -1,60 +1,192 @@
-:root { --food-ratio: 600 / 800; }
-:root { --food-bg: #fafafa; --food-fg: #17150f; --food-dim: #6f6a60;
-        --food-line: #d8d3c8; --food-cell: #efeae0; }
-@media (prefers-color-scheme: dark) {
-  :root { --food-bg: #100f0f; --food-fg: #f2eee2; --food-dim: #8c867a;
-          --food-line: #2b2925; --food-cell: #1b1a18; }
+@import url("../../static/fonts/fonts.css");
+
+:root {
+    --food-ratio: 600 / 800;
+    --primary-text-font: 'Caslon', 'Sabon', 'Minion Pro', 'ETBembo','Plantin', 'Times New Roman', 'Kai Ti', 'Computer Modern Serif', serif;
+    --font-size: 1.1em;
 }
-body { margin: 0; background: var(--food-bg); color: var(--food-fg);
-       font-family: Georgia, 'Times New Roman', serif; line-height: 1.5; }
-#content { max-width: 62rem; margin: 0 auto; padding: 0 1.25rem 4rem; }
-.header, .footer { max-width: 62rem; margin: 0 auto; padding: 1.25rem;
-                   display: flex; justify-content: space-between; gap: 1rem; }
-.header a { color: var(--food-fg); text-decoration: none; }
-.food-header h1 { margin: 0 0 .5rem; font-size: 2rem; }
-.food-intro { margin: 0 0 2.5rem; max-width: 40rem; color: var(--food-dim); }
-.food-calendar { display: flex; flex-direction: column; gap: 3.5rem; }
-.food-month { display: flex; flex-direction: column; gap: 1rem; }
-.food-month-header h2 { margin: 0; font-size: 1.25rem; font-weight: 400;
-                        color: var(--food-dim); }
-.food-weekdays, .food-grid { display: grid;
-                             grid-template-columns: repeat(7, minmax(0, 1fr)); }
-.food-weekdays { gap: .5rem; }
-.food-weekdays span { padding: 0 .25rem; font-size: .7rem; letter-spacing: .06em;
-                      text-transform: uppercase; color: var(--food-dim);
-                      font-family: system-ui, sans-serif; }
-.food-grid { gap: .5rem; }
-.food-cell { display: flex; flex-direction: column; gap: .4rem; }
-.food-cell-pad::before { content: ""; display: block;
-                         aspect-ratio: var(--food-ratio); }
+
+.theme-light {
+    --primary-bg-color: #faf9f8;
+    --secondary-bg-color: #efefe8;
+    --tertiary-bg-color: #deded8;
+    --accent-bg-color: #8f0075;
+    --primary-text-color: #222222;
+    --secondary-text-color: #414141;
+    --tertiary-text-color: #808080;
+
+    --code-color-1:#a8007f;
+    --code-color-2:#005f88;
+    --code-color-3:#718c00;
+    --code-color-4:#8f0075;
+
+    --footer-image-filter: brightness(0) saturate(100%) invert(66%) sepia(9%) saturate(10%) hue-rotate(38deg) brightness(94%) contrast(92%);
+    --image-filter: filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(19%) hue-rotate(351deg) brightness(107%) contrast(87%);
+    --graph-filter: invert(0%);
+}
+.theme-dark {
+    --primary-bg-color: #0b0a0a;
+    --secondary-bg-color: #101010;
+    --tertiary-bg-color: #383838;
+    --accent-bg-color: #a988b0;
+    --primary-text-color: #e8e8e8;
+    --secondary-text-color: #d0d0d0;
+    --tertiary-text-color: #808080;
+
+    --code-color-1:#B66467;
+    --code-color-2:#8c977d;
+    --code-color-3:#8da3b9;
+    --code-color-4:#d9ab8c;
+
+    --footer-image-filter: filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(19%) hue-rotate(351deg) brightness(107%) contrast(87%);
+    --image-filter: brightness(0) saturate(100%) invert(99%) sepia(15%) saturate(148%) hue-rotate(258deg) brightness(90%) contrast(82%);
+    --graph-filter: invert(93%) saturate(50%) hue-rotate(180deg);
+}
+
+.food-calendar {
+    display: flex;
+    flex-direction: column;
+    gap: 3.5rem;
+    /* padding: 0 1.25rem 4rem; */
+}
+
+.food-month {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.food-month-header h2 { margin: 0;
+                        font-size: 1.25rem;
+                        font-weight: 400;
+                        color: var(--tertiary-text-color);
+                      }
+
+.food-weekdays, .food-grid {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.food-weekdays {
+    gap: .5rem;
+}
+
+.food-weekdays span {
+    padding: 0 .25rem;
+    font-size: .7rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--tertiary-text-color);
+    font-family: 'Cartograph CF', system-ui, sans-serif;
+}
+
+.food-grid {
+    gap: .5rem;
+}
+
+.food-cell {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    padding: 0.5px;
+}
+
+.food-cell-pad::before {
+    content: "";
+    display: block;
+    aspect-ratio: var(--food-ratio);
+}
+
 .food-entry-link, .food-cell-placeholder {
-  display: block; width: 100%; aspect-ratio: var(--food-ratio);
-  border-radius: 10px; overflow: hidden; }
-.food-entry-link { background: var(--food-cell); border: 1px solid var(--food-line); }
-.food-entry-link img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.food-cell-placeholder { border: 2px dashed var(--food-line); }
-.food-cell-footer { display: flex; justify-content: center; }
-.food-day-number { font-size: .78rem; color: var(--food-dim);
-                   font-family: system-ui, sans-serif; }
-.food-preview { position: fixed; left: 0; top: 0; width: 270px;
-  aspect-ratio: var(--preview-aspect-ratio, 1 / 1); border-radius: 10px;
-  overflow: hidden; background: var(--food-cell);
-  border: 1px solid var(--food-line); box-shadow: 0 14px 34px rgba(0,0,0,.18);
-  opacity: 0; visibility: hidden; pointer-events: none; z-index: 40;
-  transition: opacity .12s ease, visibility 0s linear .12s; }
-.food-preview.is-visible { opacity: 1; visibility: visible; transition-delay: 0s; }
-.food-preview img { width: 100%; height: 100%; object-fit: cover; display: block; }
-@media (hover: none), (pointer: coarse) { .food-preview { display: none; } }
-.food-entry-header { display: flex; align-items: baseline;
-                     justify-content: space-between; gap: 1rem; }
-.food-entry-header h1 { font-size: 1.5rem; margin: 1rem 0; }
-.food-entry-nav { display: flex; gap: .75rem; align-items: baseline; }
-.food-entry-nav .is-disabled { color: var(--food-line); }
-#content figure, #content p img { margin: 0; }
-#content img { max-width: 100%; height: auto; border-radius: 10px; }
-.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden;
-           clip-path: inset(50%); }
-@media screen and (max-width: 700px) {
-  .food-grid, .food-weekdays { gap: .3rem; }
-  .food-day-number { font-size: .68rem; }
+    display: block;
+    width: 100%;
+    aspect-ratio: var(--food-ratio);
+    border-radius: 10px; overflow: hidden;
+}
+
+.food-entry-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.food-cell-placeholder {
+    border: 2px dashed var(--tertiary-bg-color);
+}
+
+.food-cell-footer {
+    display: flex;
+    justify-content: center;
+}
+.food-day-number {
+    font-size: .78rem;
+    color: var(--tertiary-text-color);
+    font-family: 'Cartograph CF', system-ui, sans-serif;
+}
+
+.food-preview {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 270px;
+    aspect-ratio: var(--preview-aspect-ratio, 1 / 1);
+    border-radius: 10px;
+    overflow: hidden;
+    background: var(--primary-cell);
+    border: 1px solid var(--primary-line);
+    box-shadow: 0 14px 34px rgba(0,0,0,.18);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 40;
+    transition: opacity .12s ease, visibility 0s linear .12s;
+}
+
+.food-preview.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0s;
+}
+
+.food-preview img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+@media (hover: none), (pointer: coarse) {
+    .food-preview {
+        display: none;
+    }
+}
+
+.food-entry-header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.food-entry-nav {
+    display: flex;
+    gap: .75rem;
+    align-items: baseline;
+}
+
+.food-entry-nav .is-disabled {
+    color: var(--primary-line);
+}
+
+.food-calendar img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
 }
