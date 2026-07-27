@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title><![CDATA[What Joar is Having]]></title>
+<description><![CDATA[What Joar is Having]]></description>
+<link>https://joarvarndt.se/food/</link>
+<lastBuildDate>Tue, 28 Jul 2026 01:06:32 +0200</lastBuildDate>
+<item>
+  <title><![CDATA[26 July 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><span class="is-older is-disabled" aria-hidden="true">←</span>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true">→</span>
+</h2></nav>
+</div>
+
+<figure id="orge1379cc">
+<img src="./static/display/2026-07-26-1600x.webp" alt="Eel on egg and rice." loading="eager" decoding="async">
+
+</figure>
+
+<p>
+This is a test.
+</p>
+<div class="taglist"></div>]]></description>
+  <link>https://joarvarndt.se/food/2026-07-26.html</link>
+  <guid>https://joarvarndt.se/food/2026-07-26.html</guid>
+  <pubDate>Sun, 26 Jul 2026 12:00:00 +0200</pubDate>
+</item>
+</channel>
+</rss>
