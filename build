@@ -1,0 +1,21 @@
+#!/usr/bin/env -S emacs -x
+
+;;; Code:
+
+(package-initialize)
+
+(require 'org)
+(require 'cal-french)
+(require 'htmlize)
+(require 'exec-path-from-shell)
+
+(exec-path-from-shell-initialize)
+(exec-path-from-shell-copy-env "PATH")
+
+(load-file "~/programming/org-static-blog/utils.el")
+(load-file "~/programming/org-static-blog/org-static-blog.el")
+(load-file "~/Documents/blog/food/food.el")
+
+(food-publish)
+
+;;; build ends here
