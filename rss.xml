@@ -4,29 +4,75 @@
 <title><![CDATA[What Joar is Having]]></title>
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
-<lastBuildDate>Tue, 28 Jul 2026 01:06:32 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 16:07:33 +0200</lastBuildDate>
 <item>
-  <title><![CDATA[26 July 2026]]></title>
+  <title><![CDATA[11 August 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
-<h2 class="text-table-of-contents"><span class="is-older is-disabled" aria-hidden="true">←</span>
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-08-10.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
 <span class="is-newer is-disabled" aria-hidden="true">→</span>
 </h2></nav>
 </div>
 
-<figure id="orge1379cc">
-<img src="./static/display/2026-07-26-1600x.webp" alt="Eel on egg and rice." loading="eager" decoding="async">
+<figure id="org7a8fbfa">
+<img src="./static/display/2026-08-11-1600x.webp" alt="A small piece of Chinese fruit-filled candy." loading="eager" decoding="async">
 
 </figure>
 
 <p>
-This is a test.
+The second day of airplane travel, although what feels like one,
+continuous day. My flight was unfortunately grounded for 5 hours,
+meaning that my short 2.5 hour trip from Beijing to Taipei became
+almost as long as the original transcontinental flight from Stockholm
+to Beijing. The clear highlight was this candy that the kind woman
+next to me offered. I had thankfully brought some famous Swedish
+<i>plockgodis</i> that I gave to her in return.
 </p>
 <div class="taglist"></div>]]></description>
-  <link>https://joarvarndt.se/food/2026-07-26.html</link>
-  <guid>https://joarvarndt.se/food/2026-07-26.html</guid>
-  <pubDate>Sun, 26 Jul 2026 12:00:00 +0200</pubDate>
+  <link>https://joarvarndt.se/food/2026-08-11.html</link>
+  <guid>https://joarvarndt.se/food/2026-08-11.html</guid>
+  <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+</item>
+<item>
+  <title><![CDATA[10 August 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-07-26.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true">→</span>
+</h2></nav>
+</div>
+
+<figure id="orgbb56030">
+<img src="./static/display/2026-08-10-1600x.webp" alt="&quot;Rice and spicy beef&quot;. Airline dinner on China Air." loading="eager" decoding="async">
+
+</figure>
+
+<blockquote>
+<p>
+What's the deal with airline food?!
+</p>
+</blockquote>
+
+<p>
+The first proper meal on this trip is chinese food — in the western
+sense — in a small heated package. Somewhat difficult to describe
+other than repeating the stewardess' "Rice with beef" followed by
+"beef is spicy".
+</p>
+
+<p>
+Served with a clashing piece of smoked salmon in a bulgur salad with a
+piece of bread and small chocolate cake. Not pictured is a cup of hot
+jasmine tea and a copy of the Rénmín Rìbào (人民日报) that I was so
+graciously given as reading material while flying directly above
+St. Petersburg.
+</p>
+<div class="taglist"></div>]]></description>
+  <link>https://joarvarndt.se/food/2026-08-10.html</link>
+  <guid>https://joarvarndt.se/food/2026-08-10.html</guid>
+  <pubDate>Mon, 10 Aug 2026 12:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
