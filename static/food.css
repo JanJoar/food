@@ -181,6 +181,8 @@
 
 h1.post-title {
     font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (min-width: 70ch) {
