@@ -457,13 +457,13 @@
          (concat "<a class=\"is-older\" href=\"./" older ".html\">"
                  "<span aria-hidden=\"true\">←</span>"
                  "<span class=\"sr-only\">Previous day</span></a>\n")
-       "<span class=\"is-older is-disabled\" aria-hidden=\"true\">←</span>\n")
+       "<span class=\"is-older is-disabled\" aria-hidden=\"true\"></span>\n")
      "<a class=\"food-entry-up\" href=\"./index.html\">Calendar</a>\n"
      (if newer
          (concat "<a class=\"is-newer\" href=\"./" newer ".html\">"
                  "<span aria-hidden=\"true\">→</span>"
                  "<span class=\"sr-only\">Next day</span></a>\n")
-       "<span class=\"is-newer is-disabled\" aria-hidden=\"true\">→</span>\n")
+       "<span class=\"is-newer is-disabled\" aria-hidden=\"true\"></span>\n")
      "</h2>"
      "</nav>\n")))
 
