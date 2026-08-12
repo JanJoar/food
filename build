@@ -16,6 +16,6 @@
 (load-file "~/programming/org-static-blog/org-static-blog.el")
 (load-file "~/Documents/blog/food/food.el")
 
-(food-publish)
+(food-publish t)
 
 ;;; build ends here
