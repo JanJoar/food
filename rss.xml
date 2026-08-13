@@ -4,18 +4,47 @@
 <title><![CDATA[What Joar is Having]]></title>
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
-<lastBuildDate>Wed, 12 Aug 2026 17:43:58 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:26:07 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[13 August 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-08-12.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure id="orge707c61">
+<img src="./static/display/2026-08-13-1600x.webp" alt="Classic Taiwanese stinky tofy." loading="eager" decoding="async">
+
+</figure>
+
+<p>
+This is the (appropriately named I might add) stinky tofu, one of the
+signature dishes of Taiwan. I ate it at a very popular and bustling
+restaurant with a wonderful atmosphere, but realized soon after
+ordering that I only had enough cash on me to cover the meal itself,
+not including anything to drink. "Not a problem" I thought. "I'll go
+and have something to drink afterwards". Lets just say I was
+practically running to the 7-eleven next door after paying.
+</p>
+<div class="taglist"></div>]]></description>
+  <link>https://joarvarndt.se/food/2026-08-13.html</link>
+  <guid>https://joarvarndt.se/food/2026-08-13.html</guid>
+  <pubDate>Thu, 13 Aug 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[12 August 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-08-11.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-08-13.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
-<figure id="org9bdb216">
+<figure id="org72642c1">
 <img src="./static/display/2026-08-12-1600x.webp" alt="Fried rice with beef" loading="eager" decoding="async">
 
 </figure>
@@ -28,7 +57,7 @@ Normal University (<span class="small-caps">ntnu</span>).
 <div class="taglist"></div>]]></description>
   <link>https://joarvarndt.se/food/2026-08-12.html</link>
   <guid>https://joarvarndt.se/food/2026-08-12.html</guid>
-  <pubDate>Wed, 12 Aug 2026 12:00:00 +0200</pubDate>
+  <pubDate>Wed, 12 Aug 2026 12:00:00 +0800</pubDate>
 </item>
 <item>
   <title><![CDATA[11 August 2026]]></title>
@@ -40,7 +69,7 @@ Normal University (<span class="small-caps">ntnu</span>).
 </h2></nav>
 </div>
 
-<figure id="orgb764be5">
+<figure id="org873516c">
 <img src="./static/display/2026-08-11-1600x.webp" alt="A small piece of Chinese fruit-filled candy." loading="eager" decoding="async">
 
 </figure>
@@ -57,7 +86,7 @@ next to me offered. I had thankfully brought some famous Swedish
 <div class="taglist"></div>]]></description>
   <link>https://joarvarndt.se/food/2026-08-11.html</link>
   <guid>https://joarvarndt.se/food/2026-08-11.html</guid>
-  <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+  <pubDate>Tue, 11 Aug 2026 12:00:00 +0800</pubDate>
 </item>
 <item>
   <title><![CDATA[10 August 2026]]></title>
@@ -69,7 +98,7 @@ next to me offered. I had thankfully brought some famous Swedish
 </h2></nav>
 </div>
 
-<figure id="org22b2980">
+<figure id="org3d18516">
 <img src="./static/display/2026-08-10-1600x.webp" alt="&quot;Rice and spicy beef&quot;. Airline dinner on China Air." loading="eager" decoding="async">
 
 </figure>
@@ -97,7 +126,7 @@ St. Petersburg.
 <div class="taglist"></div>]]></description>
   <link>https://joarvarndt.se/food/2026-08-10.html</link>
   <guid>https://joarvarndt.se/food/2026-08-10.html</guid>
-  <pubDate>Mon, 10 Aug 2026 12:00:00 +0200</pubDate>
+  <pubDate>Mon, 10 Aug 2026 12:00:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
