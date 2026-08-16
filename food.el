@@ -506,6 +506,7 @@ site.  Rewrite them to the served derivative and give them real alt text."
   "Render every day page, then the calendar homepage.
 With FORCE-RENDER non-nil, re-render posts whose HTML is up to date."
   (interactive "P")
+  (setq org-export-with-smart-quotes t)
   (food-configure)
   (dolist (dir (list org-static-blog-posts-directory
                      food-images-directory
