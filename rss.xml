@@ -4,18 +4,42 @@
 <title><![CDATA[What Joar is Having]]></title>
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
-<lastBuildDate>Tue, 18 Aug 2026 22:47:32 +0800</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 21:10:49 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[19 August 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-08-18.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure id="org08d47db">
+<img src="./static/display/2026-08-19-1600x.webp" alt="Braised pork with rice" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+A small classic lunch consisting of a bowl of rice with pork braised
+in soy sauce.
+</p>
+<div class="taglist"></div>]]></description>
+  <link>https://joarvarndt.se/food/2026-08-19.html</link>
+  <guid>https://joarvarndt.se/food/2026-08-19.html</guid>
+  <pubDate>Wed, 19 Aug 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[18 August 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-08-17.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-08-19.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
-<figure id="orgb13b2d9">
+<figure id="org17b25ff">
 <img src="./static/display/2026-08-18-1600x.webp" alt="Some noodles with a tea egg, as well as some fried balls of some kind." loading="eager" decoding="async">
 
 </figure>
@@ -40,7 +64,7 @@ kind. Not pictured is a cup of Papaya milk.
 </h2></nav>
 </div>
 
-<figure id="orgb40741c">
+<figure id="org4badba1">
 <img src="./static/display/2026-08-17-1600x.webp" alt="Taiwanese Fried Chicken (TFC)" loading="eager" decoding="async">
 
 </figure>
@@ -64,7 +88,7 @@ home.
 </h2></nav>
 </div>
 
-<figure id="org97126db">
+<figure id="orgc4202dd">
 <img src="./static/display/2026-08-16-1600x.webp" alt="Pork tenderloin dànbǐng." loading="eager" decoding="async">
 
 </figure>
@@ -91,7 +115,7 @@ off of the jetlag.
 </h2></nav>
 </div>
 
-<figure id="org50f08f6">
+<figure id="org0cd55ba">
 <img src="./static/display/2026-08-15-1600x.webp" alt="Taiwanese beef noodles." loading="eager" decoding="async">
 
 </figure>
@@ -114,7 +138,7 @@ Wonderfully delicious Taiwanese beef noodles in a spicy broth.
 </h2></nav>
 </div>
 
-<figure id="orga324449">
+<figure id="org98986a8">
 <img src="./static/display/2026-08-14-1600x.webp" alt="Japanese Beef Donburi and Onigiri from 7-eleven." loading="eager" decoding="async">
 
 </figure>
@@ -146,7 +170,7 @@ disappointing for different reasons.
 </h2></nav>
 </div>
 
-<figure id="org0ea548c">
+<figure id="org0ee93bc">
 <img src="./static/display/2026-08-13-1600x.webp" alt="Classic Taiwanese stinky tofy." loading="eager" decoding="async">
 
 </figure>
@@ -175,7 +199,7 @@ practically running to the 7-eleven next door after paying.
 </h2></nav>
 </div>
 
-<figure id="org8ec1194">
+<figure id="org0d8aa5f">
 <img src="./static/display/2026-08-12-1600x.webp" alt="Fried rice with beef" loading="eager" decoding="async">
 
 </figure>
@@ -200,7 +224,7 @@ Normal University (<span class="small-caps">ntnu</span>).
 </h2></nav>
 </div>
 
-<figure id="org666ded3">
+<figure id="org88069a2">
 <img src="./static/display/2026-08-11-1600x.webp" alt="A small piece of Chinese fruit-filled candy." loading="eager" decoding="async">
 
 </figure>
@@ -229,7 +253,7 @@ next to me offered. I had thankfully brought some famous Swedish
 </h2></nav>
 </div>
 
-<figure id="org6e5217a">
+<figure id="orgb657e80">
 <img src="./static/display/2026-08-10-1600x.webp" alt="&quot;Rice and spicy beef&quot;. Airline dinner on China Air." loading="eager" decoding="async">
 
 </figure>

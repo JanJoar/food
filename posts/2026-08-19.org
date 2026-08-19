@@ -1,0 +1,7 @@
+#+date: <2026-08-19>
+#+description: Braised pork with rice
+
+[[file:~/Documents/blog/food/images/2026-08-19.jpg]]
+
+A small classic lunch consisting of a bowl of rice with pork braised
+in soy sauce.
