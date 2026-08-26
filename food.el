@@ -94,6 +94,7 @@
         (concat
          "<meta name=\"viewport\" content=\"initial-scale=1,width=device-width,minimum-scale=1\">\n"
          "<meta name=\"referrer\" content=\"no-referrer\">\n"
+         "<script src=\"../static/comments.js\" defer></script>"
          "<link href=\"./static/food.css\" rel=\"stylesheet\" type=\"text/css\" />\n"
          "<link rel=\"icon\" href=\"../static/favicon.ico\">\n"))
   (setq org-static-blog-page-preamble
@@ -128,6 +129,14 @@
          </nav>
          <script src=\"../static/theme.js\"></script>
          </div></div></div>"))
+  (setq org-static-blog-post-comments
+        "<div class=\"comment-by-email\">
+         <form class=\"comment-by-email-form\">
+           <textarea id=\"comment-by-email-textarea\"
+             placeholder=\"Write a comment\"></textarea>
+           <button type=\"submit\">Send</button>
+         </form>
+       </div>")
   (setq org-static-blog-index-front-matter
         (concat
          "<p>Everything I have eaten worth photographing,"
