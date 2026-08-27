@@ -9,4 +9,4 @@ but unfortunately it did not offer any seating. So I therefore walked
 over to the local park and ate there while witnessing the beautiful
 pink sky.
 
-[[file:~/Documents/blog/food/images/pińk-sky.jpg]]
+[[file:./images/pink-sky.jpg]]
