@@ -1,0 +1,11 @@
+#+date: <2026-08-31>
+#+description: Belgian waffle from IMEC.
+
+[[file:~/Documents/blog/food/images/2026-08-31.jpg]]
+
+Today was dominated by attending the IMEC Technology Forum (ITF) Taiwan. Getting
+to listen to lectures by top staff at what is arguably Europe's (and perhaps the
+world's!) most high tech company and organisation, as well as experts from TSMC,
+Micron, Foxconn, and more was incredibly interesting and rewarding. Suitable for
+a Belgian company, the attendees were treated to branded IMEC waffles during the
+networking break.
