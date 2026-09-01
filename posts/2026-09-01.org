@@ -1,0 +1,8 @@
+#+date: <2026-09-01>
+#+description: A pineapple.
+
+[[file:~/Documents/blog/food/images/2026-09-01.jpg]]
+
+One of the luxuries of living in a country crossed by the tropic of cancer is
+the ability to easily buy fresh fruit nearby. Getting pineapple this good would
+be impossible back in Stockholm.
