@@ -1,0 +1,24 @@
+#+date: <2026-09-05>
+#+description: Mango shaved ice with condensed milk.
+
+[[file:~/Documents/blog/food/images/2026-09-05.jpg]]
+
+Mango shaved ice with condensed milk. The [[https://en.wikipedia.org/wiki/Mango_shaved_ice][Wikipedia]] page for this dish "one of
+the world's best desserts",[fn:1] although I can not find this claim repeated in
+the sources cited. Nevertheless, it is not a controversial claim to make. The
+simplicity of having condensed milk and ice — a sweet, simple, and yet filling
+combination — works perfectly in the Taiwanese summer weather. In fact, the
+climate is an integral ingredient to this dish; it would be impossible to
+replicate this back in Stockholm. The mango (locally produced on Formosa and
+immediately noticeable in its quality) compliments the clean flavour of the ice
+wonderfully.
+
+/Post scriptum/: The owner who served it to me very enthusiastically pointed out
+that Jensen Huang (the CEO of Nvidia, born in Taipei) had recently dined there.
+Here is their picture:
+
+[[file:./images/jensen.jpg]]
+
+* Footnotes
+
+[fn:1] As of the publishing of this, at least.
