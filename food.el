@@ -495,6 +495,11 @@ site.  Rewrite them to the served derivative and give them real alt text."
   (let* ((slug (file-name-base post-filename))
          (display (food-display-image slug))
          (alt (food--escape (food-cell-alt-text slug (food-post-caption post-filename)))))
+    (setq html
+          (replace-regexp-in-string
+           "<figure id=\"org[0-9a-f]+\"?>"
+           "<figure>"
+           html t t))
     (if (not display)
         html
       (replace-regexp-in-string
