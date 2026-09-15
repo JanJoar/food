@@ -1,0 +1,6 @@
+#+date: <2026-09-15>
+#+description: A bowl of ramen
+
+[[file:~/Documents/blog/food/images/2026-09-15.jpg]]
+
+A simple bowl of ramen nearby after a day of shopping.
