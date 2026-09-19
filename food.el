@@ -239,6 +239,7 @@
              (target (concat food-thumbnail-directory
                              (format "%s-%s-crop.webp" slug geometry))))
         (when (food--stale-p target source)
+          (message "Creating %s..." target)
           (food--run-magick source
                             "-auto-orient"
                             "-resize" (concat geometry "^")
@@ -423,6 +424,7 @@
 
 (defun food-assemble-index ()
   "Write the calendar homepage to `org-static-blog-index-file'."
+  (message "Creating index...")
   (org-static-blog-with-find-file
    (concat-to-dir org-static-blog-publish-directory org-static-blog-index-file)
    (org-static-blog-template
