@@ -4,14 +4,40 @@
 <title><![CDATA[What Joar is Having]]></title>
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
-<lastBuildDate>Wed, 23 Sep 2026 01:01:06 +0800</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 02:21:17 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[23 September 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-22.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-09-23-1600x.webp" alt="Toblerone" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+My (Swiss) roommate went to a meetup for Swiss students in Taiwan, and
+very kindly brought back this piece of Toblerone as well as a small
+pin for me.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-09-23.html</link>
+  <guid>https://joarvarndt.se/food/2026-09-23.html</guid>
+  <pubDate>Wed, 23 Sep 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[22 September 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-21.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-09-23.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -55,7 +81,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org37f3450">
+<div class="flushright" id="org6d8f844">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
