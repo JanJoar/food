@@ -106,7 +106,7 @@
         (format
          "<div class=\"footer\" role=\"contentinfo\">
        <div class=\"footer-upper\">
-       <img loading=\"eager\" class=\"footer-img\" id=\"themeImageFooter\" src=\"Ship-5.svg\" alt=\"A sailing ship\">
+       <img loading=\"eager\" class=\"footer-img\" id=\"themeImageFooter\" src=\"../Ship-5.svg\" alt=\"A sailing ship\">
        <copyright>© %s <span class=\"small-caps\">ad</span> / <a href=\"https://en.wikipedia.org/wiki/French_Republican_calendar\">%s <span class=\"small-caps\">ar</span></a> Joar von Arndt</copyright>
         </div>
         <div class=\"footer-lower\">
@@ -127,7 +127,7 @@
             <li><a href=\"https://webmention.io/joarvarndt.se/webmention\">Webmentions</a></li>
           </ul>
         </nav>
-    <script src=\"static/theme.js\" defer></script>
+    <script src=\"../static/theme.js\"></script>
     </div></div>"
          (format-time-string "%Y")
          (calendar-french-date-year)))
