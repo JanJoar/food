@@ -103,32 +103,34 @@
          "<a href=\"https://joarvarndt.se/\" class=\"home-link\"><img id=\"themeImageHeader\" src=\"../vonArndtCrestBlack.png\" class=\"header-img\" alt=\"Crest\" width=\"50\"></a>\n"
          "</div>\n"))
   (setq org-static-blog-page-postamble
-        (concat
-         "<div id=\"postamble\" class=\"status\"><div class=\"footer\" role=\"contentinfo\">
-         <div class=\"footer-upper\">
-         <footer-img><img loading=\"lazy\" class=\"footer-img\" id=\"themeImageFooter\" src=\"../Ship-5.svg\" alt=\"Set sail on the sea of knowledge\"></footer-img>
-         <copyright>© 2026 <span class=\"small-caps\">ad</span> / <a href=\"https://en.wikipedia.org/wiki/French_Republican_calendar\">234 <span class=\"small-caps\">ar</span></a> Joar von Arndt</copyright>
-         </div>
-         <div class=\"footer-lower\">
-         <nav>
-         <ul>
-         <li><a href=\"https://joarvarndt.se/about.html\">About</a></li>
-         <li><a href=\"https://joarvarndt.se/archive.html\">Archive</a></li>
-         <li><a href=\"https://joarvarndt.se/links.html\">Your next stop</a></li>
-         <li><a href=\"https://joarvarndt.se/website.html\">Colophon</a></li>
-         </ul>
-         </nav>
+        (format
+         "<div class=\"footer\" role=\"contentinfo\">
+       <div class=\"footer-upper\">
+       <img loading=\"eager\" class=\"footer-img\" id=\"themeImageFooter\" src=\"Ship-5.svg\" alt=\"A sailing ship\">
+       <copyright>© %s <span class=\"small-caps\">ad</span> / <a href=\"https://en.wikipedia.org/wiki/French_Republican_calendar\">%s <span class=\"small-caps\">ar</span></a> Joar von Arndt</copyright>
+        </div>
+        <div class=\"footer-lower\">
+        <nav>
+          <ul>
+            <li><a href=\"./about.html\">About</a></li>
+            <li><a href=\"./archive.html\">Archive</a></li>
+            <li><a href=\"./links.html\">Your next stop</a></li>
+            <li><a href=\"./website.html\">Colophon</a></li>
+          </ul>
+        </nav>
 
-         <nav>
-         <ul>
-         <li><a href=\"https://joarvarndt.se/now.html\">Now</a></li>
-         <li><a href=\"https://joarvarndt.se/subscribe.html\">Subscribe</a></li>
-         <li><a href=\"https://joarvarndt.se/contact.html\">Contact</a></li>
-         <li><a href=\"https://webmention.io/joarvarndt.se/webmention\">Webmentions</a></li>
-         </ul>
-         </nav>
-         <script src=\"../static/theme.js\"></script>
-         </div></div></div>"))
+        <nav>
+          <ul>
+            <li><a href=\"./now.html\">Now</a></li>
+            <li><a href=\"./subscribe.html\">Subscribe</a></li>
+            <li><a href=\"./contact.html\">Contact</a></li>
+            <li><a href=\"https://webmention.io/joarvarndt.se/webmention\">Webmentions</a></li>
+          </ul>
+        </nav>
+    <script src=\"static/theme.js\" defer></script>
+    </div></div>"
+         (format-time-string "%Y")
+         (calendar-french-date-year)))
   (setq org-static-blog-post-comments
         "<div class=\"comment-by-email\">
          <form class=\"comment-by-email-form\">
