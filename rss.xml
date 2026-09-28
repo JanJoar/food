@@ -4,14 +4,38 @@
 <title><![CDATA[What Joar is Having]]></title>
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
-<lastBuildDate>Sun, 27 Sep 2026 21:43:51 +0800</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 02:52:47 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[28 September 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-27.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-09-28-1600x.webp" alt="Pork Donburi" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Some simple <a href="https://en.wikipedia.org/wiki/Donburi">donburi</a> at a local Japanese restaurant.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-09-28.html</link>
+  <guid>https://joarvarndt.se/food/2026-09-28.html</guid>
+  <pubDate>Mon, 28 Sep 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[27 September 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-26.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-09-28.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -186,7 +210,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org520d2cb">
+<div class="flushright" id="org4ff89bf">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
@@ -294,7 +318,7 @@ while on my way to Carrefour.
 </figure>
 
 <p>
-After an exhausting day trip to Cihu it is very relaxing to just swing
+After an exhausting day trip to <a href="https://en.wikipedia.org/wiki/Cihu_Mausoleum">Cihu</a> it is very relaxing to just swing
 by <span class="small-caps">px</span> Mart and make a simple meal at home. Fried pork in chili,
 laoganma, sesame oil, onion, and garlic with rice topped with some
 scallions.

@@ -1,0 +1,6 @@
+#+date: <2026-09-28>
+#+description: Pork Donburi
+
+[[file:~/Documents/blog/food/images/2026-09-28.jpg]]
+
+Some simple [[https://en.wikipedia.org/wiki/Donburi][donburi]] at a local Japanese restaurant.
