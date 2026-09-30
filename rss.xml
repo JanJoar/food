@@ -5,12 +5,12 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 01 Oct 2026 02:18:44 +0800</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:51:31 +0800</lastBuildDate>
 <item>
   <title><![CDATA[30 September 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
-<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-28.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-29.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
 <span class="is-newer is-disabled" aria-hidden="true"></span>
 </h2></nav>
@@ -35,12 +35,39 @@ fruits while I am here.
   <pubDate>Wed, 30 Sep 2026 12:00:00 +0800</pubDate>
 </item>
 <item>
+  <title><![CDATA[29 September 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-28.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<a class="is-newer" href="./2026-09-30.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-09-29-1600x.webp" alt="Strawberry puffs" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+My roommate received a box of snacks that was too large for him and
+very kindly shared it with the rest of us. This candy was very good,
+especially since I have been craving proper sweet things to eat ever
+since I came here.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-09-29.html</link>
+  <guid>https://joarvarndt.se/food/2026-09-29.html</guid>
+  <pubDate>Tue, 29 Sep 2026 12:00:00 +0800</pubDate>
+</item>
+<item>
   <title><![CDATA[28 September 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-27.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<a class="is-newer" href="./2026-09-30.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+<a class="is-newer" href="./2026-09-29.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -239,7 +266,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org673e331">
+<div class="flushright" id="orgf216f4f">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
