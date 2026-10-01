@@ -5,14 +5,43 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 01 Oct 2026 02:51:31 +0800</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 21:47:55 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[1 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-30.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-01-1600x.webp" alt="Vietnamese noodles with beef" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Vietnamese food is relatively rare in Stockholm, at least compared to
+cities like Berlin. But Taiwan is a country that has surprised me in
+the degree in which it is connected to south-east Asia. It exists in
+the boundary zone between Japan, mainland China, and the Philippines,
+and its culinary tradition strongly reflects that. One such example is
+tonight&rsquo;s dinner, grilled meat with cold rice noodles (烤肉涼拌米粉).
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-01.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-01.html</guid>
+  <pubDate>Thu, 01 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[30 September 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-09-29.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-01.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -266,7 +295,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgf216f4f">
+<div class="flushright" id="org87ce369">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
