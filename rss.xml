@@ -5,14 +5,47 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 06 Oct 2026 02:25:50 +0800</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 02:06:20 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[6 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-05.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-06-1600x.webp" alt="Homemade Lu Rou Fan" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+This is the easiest and best value (if also most unhealthy) meal I
+have made and eaten here. Homemade lǔ ròu fàn (滷肉饭), braised pork
+rice, from a ready made packet for the price of only $60. Simply heat
+the pork, boil some rice, and optionally chop some vegetables for a
+filling meal.
+</p>
+
+<p>
+It is probably a good thing that I can not get the critical ingredient
+back home.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-06.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-06.html</guid>
+  <pubDate>Tue, 06 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[5 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-04.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-06.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -422,7 +455,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgd0a5846">
+<div class="flushright" id="orge6287c9">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
