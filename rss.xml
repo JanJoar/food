@@ -5,14 +5,48 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Fri, 09 Oct 2026 23:05:45 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 17:45:39 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[10 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-09.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-10-1600x.webp" alt="Conveyor belt sushi" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Conveyor belt sushi. Today is the Taiwanese national day; Double ten
+(十十) day. It celebrates the Wǔchāng uprising (武昌起義) of the
+<a href="https://en.wikipedia.org/wiki/1911_Revolution">Xīnhài revolution</a> of 1911 that toppled the Qing dynasty and led to the
+creation of the Republic of China that is today Taiwan. Today is
+therefore the <a href="https://joarvarndt.se/food/2026-09-21">115th year</a> of the republic.
+</p>
+
+<p>
+After waking up early to see a parade (it was not really visible to
+the public) and airshow the party decided upon sushi, and we went to a
+conveyor belt-sushi place in the Taipei main station.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-10.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-10.html</guid>
+  <pubDate>Sat, 10 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[9 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-08.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-10.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -541,7 +575,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgb5035eb">
+<div class="flushright" id="orgf26f91d">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
