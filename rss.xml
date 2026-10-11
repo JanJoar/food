@@ -5,14 +5,39 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sat, 10 Oct 2026 17:45:39 +0800</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 03:36:54 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[11 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-10.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-11-1600x.webp" alt="Vietnamese beef pho with The Economist" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+A nice bowl of Vietnamese beef pho while reading The Economist in the
+evening.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-11.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-11.html</guid>
+  <pubDate>Sun, 11 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[10 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-09.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-11.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -205,7 +230,7 @@ in a bath of jasmine tea.
 Today is the Swedish <i>Cinnamon bun day</i>, and so in a slight repeat of <a href="https://joarvarndt.se/food/2026-08-23">42
 days ago</a> I had another cinnamon bun, this time with a friend. There is
 apparently a Swedish-style bakery in Taiwan, but unfortunately in
-Tainan (台南) &#x2014; on the opposite end from Taipei (台北). The only
+Tainan (台南) &mdash; on the opposite end from Taipei (台北). The only
 remaining option then was to to go to <span class="small-caps">ikea</span> and buy frozen ones that
 could be made in the oven since we do not have the tools needed for
 baking at home.
@@ -575,7 +600,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgf26f91d">
+<div class="flushright" id="org988ce03">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
