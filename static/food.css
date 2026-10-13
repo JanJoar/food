@@ -39,6 +39,7 @@
     font-weight: 400;
     color: var(--tertiary-text-color);
     border-top: none;
+    font-family: var(--primary-text-font);
 }
 
 .food-month-header:before {
@@ -60,7 +61,7 @@
     letter-spacing: .06em;
     text-transform: uppercase;
     color: var(--tertiary-text-color);
-    font-family: 'Cartograph CF', system-ui, sans-serif;
+    font-family: var(--code-font);
 }
 
 .food-grid {
@@ -109,7 +110,7 @@
 .food-day-number {
     font-size: .78rem;
     color: var(--tertiary-text-color);
-    font-family: 'Cartograph CF', system-ui, sans-serif;
+    font-family: var(--code-font);
 }
 
 .food-preview {
