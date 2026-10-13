@@ -5,14 +5,41 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 13 Oct 2026 02:22:23 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 03:41:04 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[13 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-12.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-13-1600x.webp" alt="Luo rou fan with extra pork and bean sprouts." loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Luo rou fan with extra pork and bean sprouts. Wanted to order some
+fermented cucumbers but due to a miscommunication I did not notice
+until the food arrived that I bought some pork with a side of pork. It
+cost the same as the cucumbers, so I did not pay any extra.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-13.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-13.html</guid>
+  <pubDate>Tue, 13 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[12 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-11.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-13.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -627,7 +654,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org09f604b">
+<div class="flushright" id="org31788fb">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
