@@ -5,14 +5,52 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sun, 18 Oct 2026 04:54:28 +0800</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 14:52:22 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[18 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-17.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-18-1600x.webp" alt="Homemade tofu and rice with a hard-boiled egg" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Homemade tofu and rice with a hard-boiled egg. One of the things I
+have been surprised at here is how cheap tofu is. In Europe tofu is a
+fairly niche item for certain dishes, vegans or vegetarians. Here it
+is instead a staple, and presumably the economies of scale and
+competition drive down the price considerably.
+</p>
+
+<p>
+I have always found braising or frying tofu to be very annoying, as it
+requires a lot of preparation and drying time. Part of this was
+alleviated by finding these pieces of tofu with &ldquo;skin&rdquo; on them
+(similar to that of stinky tofu) that helps them hold together in the
+pan. I am reminded by the main thesis of Smith&rsquo;s <i>An Inquiry into the
+Nature and Causes of the Wealth of Nations</i>; the size of the market
+increases its specialization.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-18.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-18.html</guid>
+  <pubDate>Sun, 18 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[17 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-16.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-18.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -760,7 +798,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org44d6d37">
+<div class="flushright" id="org762ea4a">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
