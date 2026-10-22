@@ -1,0 +1,6 @@
+#+date: <2026-10-22>
+#+description: Danbing and soy milk.
+
+[[file:~/Documents/blog/food/images/2026-10-22.jpg]]
+
+A classic Taiwanese [[https://joarvarndt.se/food/2026-08-16][danbing]] and savoury [[https://en.wikipedia.org/wiki/Doujiang][soy milk]].
