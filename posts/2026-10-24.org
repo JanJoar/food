@@ -1,0 +1,7 @@
+#+date: <2026-10-24>
+#+description: A simple bowl of beef noodles.
+
+[[file:~/Documents/blog/food/images/2026-10-24.jpg]]
+
+A simple bowl of beef noodles.
+
