@@ -149,7 +149,7 @@
          " Since returning I have found this resource incredibly useful,"
          " not only as a source of memories but also as a form of inspiration for cooking at home."
          " It is my hope that this serves as an inspiration to you, as well as a form of remembrance"
-         " of my time in the Republic of China (中華民國)."
+         " of my time in Taiwan (中華民國)."
          " If you want to subscribe to this, you can do so through <a href=\"./rss.xml\">the <span class=\"small-caps\">rss</span> feed</a>."
          "</p>\n")))
 
