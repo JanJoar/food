@@ -5,14 +5,40 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 29 Oct 2026 02:08:59 +0800</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 02:11:18 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[28 October 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-27.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-10-28-1600x.webp" alt="Indian food." loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Indian food. Very good (it is close to Taiwan than Europe after all)
+but unfortunately a bit too expensive for what you get. More of a
+special thing to eat than a good staple.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-10-28.html</link>
+  <guid>https://joarvarndt.se/food/2026-10-28.html</guid>
+  <pubDate>Wed, 28 Oct 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[27 October 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-10-26.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-10-28.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1027,7 +1053,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org5fd6850">
+<div class="flushright" id="org09cea76">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
