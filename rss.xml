@@ -5,14 +5,41 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 04 Nov 2026 17:47:08 +0800</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 17:52:07 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[3 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-02.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-03-1600x.webp" alt="Green tea-flavoured ice cream" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Green tea-flavoured ice cream. Finally went on a trip to the Maokong
+gondola on the outskirts of Taipei and had this very good <i>bing
+chilling</i>. The cat-biscuit attached is due to the 貓 character in
+貓空纜車 (Maokong gondola) meaning cat.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-03.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-03.html</guid>
+  <pubDate>Tue, 03 Nov 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[2 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-01.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-11-03.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1180,7 +1207,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orge02e0a2">
+<div class="flushright" id="orgd931ce5">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
