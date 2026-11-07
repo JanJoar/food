@@ -5,12 +5,12 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sat, 07 Nov 2026 12:22:38 +0800</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 12:27:25 +0800</lastBuildDate>
 <item>
   <title><![CDATA[7 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
-<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-05.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-06.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
 <span class="is-newer is-disabled" aria-hidden="true"></span>
 </h2></nav>
@@ -36,12 +36,38 @@ pictured) that I have <a href="https://joarvarndt.se/chinese_phenomenology.html"
   <pubDate>Sat, 07 Nov 2026 12:00:00 +0800</pubDate>
 </item>
 <item>
+  <title><![CDATA[6 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-05.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<a class="is-newer" href="./2026-11-07.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-06-1600x.webp" alt="Beibingfang" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+<i>Beibingyang</i> — a local <del>Fanta</del> original drink from Beijing that I try and
+have every time I visit. It is however better enjoyed in the summer
+months than in the cold northern Chinese autumn.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-06.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-06.html</guid>
+  <pubDate>Fri, 06 Nov 2026 12:00:00 +0800</pubDate>
+</item>
+<item>
   <title><![CDATA[5 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-04.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<a class="is-newer" href="./2026-11-07.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+<a class="is-newer" href="./2026-11-06.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1287,7 +1313,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orge1e0e44">
+<div class="flushright" id="orge1cb464">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
