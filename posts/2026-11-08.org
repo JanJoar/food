@@ -1,0 +1,7 @@
+#+date: <2026-11-08>
+#+description: A burger in Stockholm
+
+[[file:~/Documents/blog/food/images/2026-11-08.jpg]]
+
+Back in Sweden for a few days and had a wonderful dinner with family
+and some western food.

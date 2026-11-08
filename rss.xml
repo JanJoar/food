@@ -5,14 +5,39 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sat, 07 Nov 2026 12:27:25 +0800</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:44:19 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[8 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-07.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-08-1600x.webp" alt="A burger in Stockholm" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Back in Sweden for a few days and had a wonderful dinner with family
+and some western food.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-08.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-08.html</guid>
+  <pubDate>Sun, 08 Nov 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[7 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-06.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-11-08.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -22,7 +47,7 @@
 </figure>
 
 <p>
-A shirt stint in Beijing, People&rsquo;s Republic of China. It is a strange
+A short stint in Beijing, People&rsquo;s Republic of China. It is a strange
 reality that roaming the streets for breakfast in the Chinese capital
 feels so natural for me, but I guess I have come to know these
 neighbourhoods quite well. One of the first places that opened is this
@@ -282,7 +307,7 @@ More mango shaved ice.
 </figure>
 
 <p>
-Indian food. Very good (it is close to Taiwan than Europe after all)
+Indian food. Very good (it is closer to Taiwan than Europe after all)
 but unfortunately a bit too expensive for what you get. More of a
 special thing to eat than a good staple.
 </p>
@@ -1313,7 +1338,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orge1cb464">
+<div class="flushright" id="orgc3a5051">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
