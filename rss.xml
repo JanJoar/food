@@ -5,12 +5,12 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 12 Nov 2026 03:57:03 +0800</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 03:58:44 +0800</lastBuildDate>
 <item>
   <title><![CDATA[11 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
-<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-09.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-10.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
 <span class="is-newer is-disabled" aria-hidden="true"></span>
 </h2></nav>
@@ -31,12 +31,36 @@ A classic hot dog at the student mess hall of the defence university.
   <pubDate>Wed, 11 Nov 2026 12:00:00 +0800</pubDate>
 </item>
 <item>
+  <title><![CDATA[10 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-09.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<a class="is-newer" href="./2026-11-11.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-10-1600x.webp" alt="Homemade stew" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Homemade stew at a dinner with family friends.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-10.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-10.html</guid>
+  <pubDate>Tue, 10 Nov 2026 12:00:00 +0800</pubDate>
+</item>
+<item>
   <title><![CDATA[9 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-08.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<a class="is-newer" href="./2026-11-11.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
+<a class="is-newer" href="./2026-11-10.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1386,7 +1410,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org2ad0552">
+<div class="flushright" id="org364ec83">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
