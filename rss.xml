@@ -5,14 +5,40 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sat, 14 Nov 2026 20:11:41 +0800</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 23:45:03 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[15 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-14.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-15-1600x.webp" alt="Kimchi spicy dumplings" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+Kimchi spicy dumplings. Finally got home after this long period of
+travel, and got some take-away dumplings along with some tea on the
+way from the airport before crashing at the apartment.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-15.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-15.html</guid>
+  <pubDate>Sun, 15 Nov 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[14 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-13.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-11-15.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1487,7 +1513,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgdfbfe5d">
+<div class="flushright" id="orgb046812">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
