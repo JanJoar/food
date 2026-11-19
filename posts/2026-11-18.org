@@ -1,0 +1,8 @@
+#+date: <2026-11-18>
+#+description: Another bowl of pork with rice.
+
+[[file:~/Documents/blog/food/images/2026-11-18.jpg]]
+
+Another bowl of pork with rice. Few things are better after a busy day
+than a [[https://www.youtube.com/watch?v=q4bPMxeCnos][succulent chinese meal]].
+
