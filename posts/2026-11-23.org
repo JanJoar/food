@@ -1,0 +1,7 @@
+#+date: <2026-11-23>
+#+description: Vegetarian noodles
+
+[[file:~/Documents/blog/food/images/2026-11-23.jpg]]
+
+Some unknown kind of (vegetarian) noodle dish.
+
