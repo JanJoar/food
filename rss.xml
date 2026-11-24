@@ -5,14 +5,40 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 25 Nov 2026 04:43:44 +0800</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 04:46:16 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[24 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-23.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-24-1600x.webp" alt="The beef in a dough bun" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+The juiciest beef in a dough bun that I&rsquo;ve ever had — it was quite
+difficult to eat without getting the contents to spill out over my
+hands and mouth while taking a bite.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-24.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-24.html</guid>
+  <pubDate>Tue, 24 Nov 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[23 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-22.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-11-24.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1712,7 +1738,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="org74bd3e6">
+<div class="flushright" id="orgf79b533">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
