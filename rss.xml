@@ -5,14 +5,39 @@
 <description><![CDATA[What Joar is Having]]></description>
 <link>https://joarvarndt.se/food/</link>
 <atom:link href="https://joarvarndt.se/food/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 25 Nov 2026 04:46:16 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:33:57 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[25 November 2026]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" aria-label="Entry navigation">
+<h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-24.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
+<a class="food-entry-up" href="./index.html">Calendar</a>
+<span class="is-newer is-disabled" aria-hidden="true"></span>
+</h2></nav>
+</div>
+
+<figure>
+<img src="./static/display/2026-11-25-1600x.webp" alt="More (non) onigiri" loading="eager" decoding="async">
+
+</figure>
+
+<p>
+More (non) onigiri from the <a href="https://joarvarndt.se/food/2026-10-19.html">same place as before</a> after having a
+strange craving for rice.
+</p>
+
+]]></description>
+  <link>https://joarvarndt.se/food/2026-11-25.html</link>
+  <guid>https://joarvarndt.se/food/2026-11-25.html</guid>
+  <pubDate>Wed, 25 Nov 2026 12:00:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[24 November 2026]]></title>
   <description><![CDATA[
 <nav id="table-of-contents" aria-label="Entry navigation">
 <h2 class="text-table-of-contents"><a class="is-older" href="./2026-11-23.html"><span aria-hidden="true">←</span><span class="sr-only">Previous day</span></a>
 <a class="food-entry-up" href="./index.html">Calendar</a>
-<span class="is-newer is-disabled" aria-hidden="true"></span>
+<a class="is-newer" href="./2026-11-25.html"><span aria-hidden="true">→</span><span class="sr-only">Next day</span></a>
 </h2></nav>
 </div>
 
@@ -1738,7 +1763,7 @@ the ones close to my apartment.
 It is too soon to say.
 </p>
 
-<div class="flushright" id="orgf79b533">
+<div class="flushright" id="org4bbccb5">
 <p>
 — Zhou Enlai (周恩来) on the consequences of the French revolution.
 </p>
